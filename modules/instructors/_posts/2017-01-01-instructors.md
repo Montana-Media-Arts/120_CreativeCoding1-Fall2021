@@ -23,7 +23,7 @@ Michael Cassens maintains this course. Please contact Michael for problems that 
 
 <!--For those in Missoula, you are welcome to come by for help during my office hours. -->
 
-Zoom is the primary way of getting in touch with me this semester.
+Zoom, in-person, phone or email is the primary way to get in touch with me.  Please use Calendly to set up an appointment.
 
 <!--- Mondays/Wednesday: 11:00 am - 12:00 pm
 - Tuesdays/Thursday: 10:00 am - 11:00 am
