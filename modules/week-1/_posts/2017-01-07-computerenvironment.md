@@ -125,7 +125,7 @@ module: 1
 <p>Here is a CLI activity for you to practice.</p>
 Here is an online Linux terminal if you want to work directly in the browser:
 <p>&nbsp;</p>
-<iframe src="https://cocalc.com/projects/bebcfa2a-88be-49a7-8a65-d05ceead0a15/files/2021-08-29-134036.term?anonymous=true&session=default" width="600" height="500"></iframe>
+<iframe src="https://cocalc.com/projects?anonymous=true&session=default" width="600" height="500"></iframe>
 <p>&nbsp;</p>
 <p>Be capable of performing the following actions via command line.</p>
 <ul>
