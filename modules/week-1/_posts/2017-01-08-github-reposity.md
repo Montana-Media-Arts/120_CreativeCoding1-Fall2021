@@ -94,5 +94,8 @@ module: 1
 <li>Remember to pull first <b>always</b> and then push.</li>
 </ol>
 
+<p><a href="//youtu.be/embed/L0TKgJRdY0s" data-lity>Using GitHub Desktop</a></p>
+
+<p><a href="//youtu.be/embed/1tM-bCl4Dec" data-lity>Create a folder and file in GitHub</a></p>
 
 </div>
