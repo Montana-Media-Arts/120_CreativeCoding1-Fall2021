@@ -9,6 +9,8 @@ jotted: true
 <div class="tab">
   <button class="tablinks active" onclick="openTab(event, 'Overview')">Overview</button>
   <button class="tablinks" onclick="openTab(event, 'Description')">Description</button>
+
+  <button class="tablinks" onclick="openTab(event, 'To Do')">To Do</button>
     
 </div>
 
@@ -39,7 +41,9 @@ jotted: true
 
 ```html
 <html>
+    <head>
     <title>My first page</title>
+    </head>
     <body>
         <a href="secondpage.html">Go to my other page</a>
     </body>
@@ -55,7 +59,9 @@ jotted: true
 
 ```html
 <html>
+    <head>
     <title>My second page</title>
+    </head>
     <body>
         <a href="firstpage.html">Go to my first page</a>
     </body>
@@ -69,6 +75,13 @@ jotted: true
 
 </div>
 
-<p></p>
+<div id="ToDo" class="tabcontent">
 
-<a href='https://umontanamediaarts.com/MART120/CodeEditor/' target="_new">Click here for an Interactive HTML editor</a>
+<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="ExXMOLE" data-editable="true" data-user="retrog4m3r" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/retrog4m3r/pen/ExXMOLE">
+  Hyperlinks</a> by Michael Cassens (<a href="https://codepen.io/retrog4m3r">@retrog4m3r</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+
+</div>
