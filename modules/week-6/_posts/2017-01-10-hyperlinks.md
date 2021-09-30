@@ -10,7 +10,7 @@ jotted: true
   <button class="tablinks active" onclick="openTab(event, 'Overview')">Overview</button>
   <button class="tablinks" onclick="openTab(event, 'Description')">Description</button>
 
-  <button class="tablinks" onclick="openTab(event, 'To Do')">To Do</button>
+  <button class="tablinks" onclick="openTab(event, 'ToDo')">To Do</button>
     
 </div>
 
