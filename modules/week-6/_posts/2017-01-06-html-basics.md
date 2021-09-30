@@ -8,8 +8,9 @@ jotted: false
 
 <div class="tab">
   <button class="tablinks active" onclick="openTab(event, 'Overview')">Overview</button>
+  
   <button class="tablinks" onclick="openTab(event, 'Description')">Description</button>
-    
+  <button class="tablinks" onclick="openTab(event, 'ToDo')">To Do</button>  
 </div>
 
 <!-- Tab content -->
@@ -49,8 +50,15 @@ What other tags do we need to make stuff show up?
 
 </div>
 
-<p></p>
 
-If you want to try out the code above, click on the link below. It will open an online code editor so you can see what your HTML will look like in a browser.
+<div id="ToDo" class="tabcontent">
 
-<a href='https://umontanamediaarts.com/MART120/CodeEditor/' target="_new">Click here for an Interactive HTML editor</a>
+<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="LYLaXEQ" data-user="michaelcassens" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/michaelcassens/pen/LYLaXEQ">
+  HTML Basics</a> by Michael Cassens (<a href="https://codepen.io/michaelcassens">@michaelcassens</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+
+
+</div>
