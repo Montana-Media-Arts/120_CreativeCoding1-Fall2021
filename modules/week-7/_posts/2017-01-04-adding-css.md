@@ -9,7 +9,7 @@ jotted: true
 <div class="tab">
   <button class="tablinks active" onclick="openTab(event, 'Overview')">Overview</button>
    <button class="tablinks" onclick="openTab(event, 'Inline')">Inline Style</button>
-    
+    <button class="tablinks" onclick="openTab(event, 'ToDo')">To Do</button>
 </div>
 
 <!-- Tab content -->
@@ -32,7 +32,7 @@ jotted: true
 <div class="tabhtml" markdown="1">
 
 ```html
-<a href="http://www.ebay.com" style="text-decoration:none">Ebay</a>
+<a href="https://www.ebay.com" style="text-decoration:none" target="_new">Ebay</a>
 ```
 
 </div>
@@ -41,4 +41,12 @@ jotted: true
 
 <p>What do we need to consider when we use inline styles? If we use inline styles and want that style on another page, we will need to duplicate the style on that page.  Not bad unless we have many pages with multiple tags that need to be changed.</p>
 
+</div>
+<div id="ToDo" class="tabcontent">
+<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="eYRaBOQ" data-editable="true" data-user="retrog4m3r" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/retrog4m3r/pen/eYRaBOQ">
+  Inline Style</a> by Michael Cassens (<a href="https://codepen.io/retrog4m3r">@retrog4m3r</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
 </div>

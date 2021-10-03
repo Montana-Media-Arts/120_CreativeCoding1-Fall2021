@@ -13,6 +13,7 @@ jotted: true
     <button class="tablinks" onclick="openTab(event, 'Stylesheet')">External Stylesheet</button>
     <button class="tablinks" onclick="openTab(event, 'Page')">HTML Page</button>
     <button class="tablinks" onclick="openTab(event, 'Order')">Ordering of Styles</button>
+    <button class="tablinks" onclick="openTab(event, 'ToDo')">To Do</button>
 </div>
 
 <!-- Tab content -->
@@ -81,4 +82,13 @@ span{
 
 <p>Yes, that's right; the browser has a style sheet.  If you are interested, take a look around, and you can find and change your browser's style sheet. Fun right?</p>
 
+</div>
+
+<div id="ToDo" class="tabcontent">
+<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="RwgmoPR" data-editable="true" data-user="retrog4m3r" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/retrog4m3r/pen/RwgmoPR">
+  External Style</a> by Michael Cassens (<a href="https://codepen.io/retrog4m3r">@retrog4m3r</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
 </div>
