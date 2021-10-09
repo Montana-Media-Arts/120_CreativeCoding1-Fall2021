@@ -24,6 +24,9 @@ What other tags do we need to make stuff show up?
 
 ```html
 <html>
+    <head>
+        <title>My First Page</title>
+    </head>
     <body>
         <h1>My first website</h1>
         <p>My stuff is really important.</p>

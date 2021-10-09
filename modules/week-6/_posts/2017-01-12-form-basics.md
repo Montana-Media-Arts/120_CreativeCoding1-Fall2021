@@ -34,7 +34,9 @@ jotted: true
 
 ```html
 <html>
-    <title>My first page</title>
+    <head>
+        <title>My first page</title>
+    </head>
     <body>
         
         <form action="nextPage.html" type="Post">

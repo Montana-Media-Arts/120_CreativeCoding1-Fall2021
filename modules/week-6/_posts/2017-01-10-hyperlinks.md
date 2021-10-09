@@ -42,7 +42,7 @@ jotted: true
 ```html
 <html>
     <head>
-    <title>My first page</title>
+        <title>My first page</title>
     </head>
     <body>
         <a href="secondpage.html">Go to my other page</a>

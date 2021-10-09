@@ -31,7 +31,7 @@ jotted: true
 ```html
     <html>
         <head>
-            <title>Class Example</title>
+            <title>id Example</title>
             <link rel="stylesheet" type="text/css" href="mainstyle.css">
         </head>
         <body>

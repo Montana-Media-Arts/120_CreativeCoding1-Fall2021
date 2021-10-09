@@ -32,8 +32,8 @@ jotted: true
 
 ```html
 <html>
-    <title>My first page</title>
     <head>
+        <title>My first page</title>
         <!-- this is a comment -->
         <!-- we will put stuff in here later -->
     </head>
