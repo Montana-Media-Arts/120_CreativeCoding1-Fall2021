@@ -32,8 +32,8 @@ Here's an example of an HTML page.
 
 ```html
     <html>
-        <title>Class Example</title>
         <head>
+            <title>Class Example</title>
             <link rel="stylesheet" type="text/css" href="mainstyle.css">
         </head>
         <body>

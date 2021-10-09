@@ -10,6 +10,7 @@ jotted: true
     <button class="tablinks active" onclick="openTab(event, 'Overview')">Overview</button>
     <button class="tablinks" onclick="openTab(event, 'CDN')">CDN</button>
     <button class="tablinks" onclick="openTab(event, 'Local')">Local Copy</button>
+    <button class="tablinks" onclick="openTab(event, 'ToDo')">To Do</button>
 </div>
 
 <!-- Tab content -->
@@ -33,8 +34,8 @@ jotted: true
 
 ```html
 <html>
-    <title>Class Example</title>
     <head>
+        <title>Other Library Example</title>
           <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
@@ -80,8 +81,8 @@ jotted: true
 
 ```html
 <html>
-    <title>Class Example</title>
     <head>
+        <title>Other Library Example</title>
           <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="./styles/bootstrap-4.3.1/css/bootstrap.min.css">
@@ -106,7 +107,7 @@ jotted: true
 <p>Did you see the same thing as before?  Unfortunately, it's not as simple as using a CDN. However, if you need an offline solution, this will work.  Downloading and saving libraries work for other styles (and JavaScript) that you may want to use in the future too.</p>
 
 </div>
-<div id="To Do" class="tabcontent">
+<div id="ToDo" class="tabcontent">
 <p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="mdwYOPO" data-editable="true" data-user="retrog4m3r" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
   <span>See the Pen <a href="https://codepen.io/retrog4m3r/pen/mdwYOPO">
   Bootstrap Example</a> by Michael Cassens (<a href="https://codepen.io/retrog4m3r">@retrog4m3r</a>)

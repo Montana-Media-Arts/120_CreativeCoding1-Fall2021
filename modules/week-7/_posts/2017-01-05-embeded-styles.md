@@ -32,8 +32,8 @@ jotted: true
 
 ```html
 <html>
-    <title>Embedded Style Example</title>
     <head>
+        <title>Embedded Style Example</title>
         <style>
             span{
                 background-color:red;

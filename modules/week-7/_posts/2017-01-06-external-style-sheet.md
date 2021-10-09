@@ -52,8 +52,8 @@ span{
 
 ```html
     <html>
-        <title>External Style Sheet</title>
         <head>
+            <title>External Style Sheet</title>
             <link rel="stylesheet" type="text/css" href="mainstyle.css">
         </head>
     </html>
