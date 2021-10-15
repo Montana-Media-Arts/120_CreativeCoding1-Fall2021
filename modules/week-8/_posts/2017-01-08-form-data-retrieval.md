@@ -10,6 +10,7 @@ jotted: true
    <button class="tablinks" onclick="openTab(event, 'Step1')">Step 1</button>
    <button class="tablinks" onclick="openTab(event, 'Step2')">Step 2</button>
     <button class="tablinks" onclick="openTab(event, 'Step3')">Step 3</button>
+    <button class="tablinks" onclick="openTab(event, 'ToDo')">To Do</button>
     
 </div>
 <!-- Tab content -->
@@ -150,4 +151,14 @@ All I did was add a **div** tag and then accessed its Id in JavaScript and put t
 
 Where do we go from here? Let's create a small addition game to learn about **if** statements in JavaScript.
 </div>
+</div>
+
+<div id="ToDo" class="tabcontent">
+<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="XWaXKag" data-editable="true" data-user="retrog4m3r" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/retrog4m3r/pen/XWaXKag">
+  JS Form Retrieval</a> by Michael Cassens (<a href="https://codepen.io/retrog4m3r">@retrog4m3r</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+
 </div>

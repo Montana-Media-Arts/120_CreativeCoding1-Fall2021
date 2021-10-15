@@ -12,6 +12,7 @@ jotted: true
     <button class="tablinks" onclick="openTab(event, 'Document')">document.write Example</button>
     <button class="tablinks" onclick="openTab(event, 'Debug')">debug Example</button>
      <button class="tablinks" onclick="openTab(event, 'Console')">console.log Example</button>
+     <button class="tablinks" onclick="openTab(event, 'ToDo')">To Do</button>
     
 </div>
 <!-- Tab content -->
@@ -170,4 +171,13 @@ However, if we mistype something like this:
 <p>Open your web page. It won't show anything on the page. However, if you go to the console in the Developer Tools again, you will see the console.log message. Console.log is an excellent way to find out what is happening in your JavaScript code.</p>
 
 <p>Next, let's talk about variables in JavaScript.</p>
+</div>
+
+<div id="ToDo" class="tabcontent">
+<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="QWMyEdb" data-editable="true" data-user="retrog4m3r" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/retrog4m3r/pen/QWMyEdb">
+  JS - getElementById</a> by Michael Cassens (<a href="https://codepen.io/retrog4m3r">@retrog4m3r</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
 </div>

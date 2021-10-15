@@ -10,6 +10,7 @@ jotted: true
   <button class="tablinks active" onclick="openTab(event, 'Overview')">Overview</button>
    <button class="tablinks" onclick="openTab(event, 'Example')">Variables Example</button>
    <button class="tablinks" onclick="openTab(event, 'HTML')">HTML Example</button>
+   <button class="tablinks" onclick="openTab(event, 'ToDo')">To Do</button>
     
 </div>
 <!-- Tab content -->
@@ -70,4 +71,13 @@ jotted: true
 <li>When I print out the variable <b>favoriteColor</b>, it has to precisely match the capitalization as it is declared or not work.</li>
 <li>To make it show up in the tag, you have to use the <b>+</b> and then put the variable name without the double-quotes <b>"</b>. The double-quotes are required if you want to print out exactly what is inside the double-quotes. In this case, we want to print out the value stored in the variable.</li>
 </ol>
+</div>
+
+<div id="ToDo" class="tabcontent">
+<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="jOLWrmb" data-editable="true" data-user="retrog4m3r" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/retrog4m3r/pen/jOLWrmb">
+  JS - Variables</a> by Michael Cassens (<a href="https://codepen.io/retrog4m3r">@retrog4m3r</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
 </div>
