@@ -12,7 +12,8 @@ jotted: false
     <button class="tablinks" onclick="openTab(event, 'Example')">Example with Random</button>
     <button class="tablinks" onclick="openTab(event, 'Speed')">Random Speed</button>
     <button class="tablinks" onclick="openTab(event, 'Reference')">Reference</button>
-    <button class="tablinks" onclick="openTab(event,'ToDo')">To Do</button>
+    <button class="tablinks" onclick="openTab(event, 'ToDo')">To Do</button>
+   
 </div>
 <!-- Tab content -->
 <div id="Overview" class="tabcontent" style="display:block">
@@ -198,7 +199,7 @@ With that, let's talk about homework for this week.
 </div>
 
 <div id="ToDo" class="tabcontent">
-<p class="codepen" data-height="300" data-theme-id="dark" data-default-tab="html,result" data-slug-hash="LYjzzeN" data-editable="true" data-user="retrog4m3r" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+<p class="codepen" data-height="600" data-theme-id="dark" data-default-tab="html,result" data-slug-hash="LYjzzeN" data-editable="true" data-user="retrog4m3r" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
   <span>See the Pen <a href="https://codepen.io/retrog4m3r/pen/LYjzzeN">
   p5.js Math functions</a> by Michael Cassens (<a href="https://codepen.io/retrog4m3r">@retrog4m3r</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
