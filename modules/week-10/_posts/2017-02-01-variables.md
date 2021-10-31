@@ -14,6 +14,7 @@ jotted: true
     <button class="tablinks" onclick="openTab(event, 'Scope')">Variable Scope</button>
     <button class="tablinks" onclick="openTab(event, 'Type')">Variable Types</button>
     <button class="tablinks" onclick="openTab(event, 'Final')">Final Result</button>
+    <button class="tablinks" onclick="openTab(event, 'ToDo')">To Do</button>
 </div>
 <!-- Tab content -->
 <div id="Overview" class="tabcontent" style="display:block">
@@ -205,4 +206,14 @@ function draw()
 Did you see something change?  Cool huh?  Let's continue.
 
 </div>
+</div>
+
+<div id="ToDo" class="tabcontent">
+
+<p class="codepen" data-height="300" data-theme-id="dark" data-default-tab="html,result" data-slug-hash="gOxGGmR" data-editable="true" data-user="retrog4m3r" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/retrog4m3r/pen/gOxGGmR">
+  p5.js variables</a> by Michael Cassens (<a href="https://codepen.io/retrog4m3r">@retrog4m3r</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
 </div>
